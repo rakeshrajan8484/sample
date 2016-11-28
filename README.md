@@ -1,2 +1,0 @@
-# sample
-Just a start
